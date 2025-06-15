@@ -34,6 +34,6 @@ Assistant: That sounds incredibly difficult. It's okay to feel lost sometimes...
 
 ---
 
-<p align="center"> <img src="graph_2.png" alt="Graph structure" width="100"/> </p>
+<p align="center"> <img src="graph_2.png" alt="Graph structure" width="200"/> </p>
 
 ---
